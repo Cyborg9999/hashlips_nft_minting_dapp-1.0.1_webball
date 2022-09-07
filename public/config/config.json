@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3C9556B211498066A21020798907015FAC86a700",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3c9556b211498066a21020798907015fac86a700",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "WwbBall",
+  "SYMBOL": "WB",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/zh-CN/collection/webball",
+  "SHOW_BACKGROUND": true
+}
